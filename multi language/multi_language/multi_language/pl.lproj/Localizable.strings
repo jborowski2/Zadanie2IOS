@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  multi_language
+
+  Created by student on 08/12/2022.
+  Copyright © 2022 guest_none. All rights reserved.
+*/
+"Information"="Informacja";
+"Faculty"="Wydział prowadzi %i programy na poziomie magisterskim i licencjackim.";
+"image"="wi-pl";
